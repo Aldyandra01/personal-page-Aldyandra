@@ -377,3 +377,12 @@ footer .credit a {
     font-size: 55%;
   }
 }
+
+#searchInput {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.3rem;
+  border: none;
+  outline: none;
+}
